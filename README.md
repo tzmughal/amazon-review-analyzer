@@ -24,11 +24,20 @@ This project analyzes Amazon product reviews using **NLP** techniques to:
 
 ## 📊 Sample Visualizations
 
-(images/1.png)
+### ☁️ Word Cloud of All Reviews
 
-(images/2.png)
+Shows the most frequent terms used in the reviews, regardless of sentiment.
+
+![Word Cloud](images/1.png)
+
+### 📉 Top Positive vs Negative Words (Bar Chart)
+
+Displays the top keywords associated with **positive** and **negative** reviews based on frequency.
+
+![Bar Chart of Sentiment Words](images/2.png)
 
 ---
+
 
 #### 📌 Sample Code Snippet
 
